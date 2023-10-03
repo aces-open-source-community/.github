@@ -1,5 +1,5 @@
 # Hackers Ignite Open Source Community (HIOSC)
-![logo](logo.png)
+![logo](https://avatars.githubusercontent.com/u/139005153?s=200&v=4)
 
 HIOSC is a community of developers, enthusiasts, and users passionate about open-source software. We aim to learn, create, maintain, and promote high-quality projects that are free, open, and accessible to everyone.
 
